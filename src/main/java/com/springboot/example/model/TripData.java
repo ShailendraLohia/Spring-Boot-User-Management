@@ -8,5 +8,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 public class TripData {
-    private JourneyInfo tripData;
+    private JourneyDetails tripData;
 }
