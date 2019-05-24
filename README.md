@@ -11,7 +11,7 @@
 
 URL will look like
 
-http://{zuul host:<zuul server port>}/{sping-application-name}/{parameter}
+http://{zuul host:<zuul server port>}/{spring-application-name}/{parameter}
 
 example
 http://localhost:8762/user-management-service/user
